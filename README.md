@@ -1,2 +1,2 @@
-# Estudos de Chatbot Whatsapp, Botpress e Api
-Projeto futuro para 2022
+# Estudos de Chatbot Whatsapp API
+Projeto futuro para 2024
